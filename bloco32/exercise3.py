@@ -1,7 +1,7 @@
 count = range(0,5)
 
 for x in count:
-    print('*****', 'for')
+    print('*' * 5, 'for')
 
 counter = 0
 
