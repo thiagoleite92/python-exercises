@@ -41,4 +41,4 @@ def refuel(fuel, quantity):
 #     total -= total * discount
 #     return total
 
-# print(fuel_price("G", 20)) gabarito
+# print(fuel_price("G", 20)) gabaritoa
